@@ -1,1 +1,1 @@
-# Repository containing completed coding challenges from CodeWars
+# Completed coding challenges from CodeWars
