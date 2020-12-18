@@ -10,11 +10,7 @@ public static void testSolution(int number)
    for (int n = 0; n < number; n++)
    {
    
-    if(n % 3 == 0 && n % 5 == 0)
-    {
-      sum = sum + n;
-    }
-    else if (n % 3 == 0 || n % 5 == 0)
+    if (n % 3 == 0 || n % 5 == 0)
     {
       sum = sum + n;
     }
